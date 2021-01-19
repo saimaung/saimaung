@@ -1,16 +1,29 @@
-### Hi there 👋
+![](https://user-images.githubusercontent.com/5880908/92062256-48ad8580-ed66-11ea-8e47-c2d8bfc51891.png)
 
-<!--
-**saimaung/saimaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h1 align="center">
+    <b>Hello world, I'm <a href="https://github.com/saimaung">_sai</a> 👋 </b>
+  </h1>
+  <p align="center">
+    <samp>( "👨‍💻 Software Engineer" && "Data Platform Expert" )</samp>
+  </p>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/saimaung">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saimaung&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+<p align="center">
+  <a href="https://github.com/saimaung">
+    <img src="https://img.shields.io/badge/GitHub-saimaung-brightgreen" />
+  </a>
+  <a href="https://www.linkedin.com/in/saiwaimaung/">
+    <img src="https://img.shields.io/badge/in-saiwaimaung-blue" />
+  </a>
+  <a href="https://keybase.io/towei">
+    <img src="https://img.shields.io/badge/DockerHub-saiwaimaung-green" />
+  </a>
+</p>
